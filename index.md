@@ -10,8 +10,18 @@ Obtain your copy by visiting [https://thelittlescroll.github.io](https://thelitt
 ## Using the Key
 Once the secret key is made available, information will be posted on how to:  
 
-- **Download** the secret key here
-- **Import** the key for use in the decryption process  
+- **Download** the secret key [here](thekeytotheabyss.gpg)
+- **Import** the key for use in the decryption process:
+```
+$ ~ >gpg --import thekeytotheabyss.gpg
+gpg: key EIEIOEIEIOEIEIO public key "The Key to the Abyss (The Key to the Abyss) <thekeytotheabyss@planetearth.internal>" imported
+gpg: key EIEIOEIEIOEIEIO:secret key imported
+gpg: Total number processed: 1
+gpg:               imported: 1
+gpg:       secret keys read: 1
+gpg:   secret keys imported: 1
+$ ~ >
+```  
 - **Unseal (decrypt)** The Little Scroll to reveal its contents  
 
 ### PGP-Compatible Software  
