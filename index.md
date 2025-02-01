@@ -26,9 +26,9 @@ $ ~ >
 ```
 $ ~ >gpg --decrypt --output unsealed.txt thelittlescroll.asc.txt
 ```
-  - --decrypt: The command to unseal the scroll
-  - --output [FILENAME]: The name of the file to save the unsealed (decrypted) version
-  - thelittlescroll.asc.txt: The sealed scroll (your filename may differ)
+  - **--decrypt**: The command to unseal the scroll
+  - **--output** [FILENAME]: The name of the file to save the unsealed (decrypted) version
+  - **thelittlescroll.asc.txt**: The sealed scroll (your filename may differ)
 
 ### PGP-Compatible Software  
 PGP-compatible software is required to use the key and unseal (decrypt) **The Little Scroll**. Below are some of the most common PGP/GPG software packages:  
