@@ -23,7 +23,9 @@ gpg:   secret keys imported: 1
 $ ~ >
 ```  
 - **Unseal (decrypt)** The Little Scroll to reveal its contents  
-
+```
+$ ~ >gpg --decrypt --output unsealed.txt thelittlescroll.asc.txt
+```
 ### PGP-Compatible Software  
 PGP-compatible software is required to use the key and unseal (decrypt) **The Little Scroll**. Below are some of the most common PGP/GPG software packages:  
 
