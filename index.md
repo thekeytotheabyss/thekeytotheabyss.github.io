@@ -1,6 +1,3 @@
----
-title: "The Key to the Abyss"
----
 **Key Status**: Secured by the Creator
 
 ## What it Unseals: The Little Scroll
