@@ -10,7 +10,7 @@ Obtain your copy by visiting [https://thelittlescroll.github.io](https://thelitt
 ## Using the Key
 Once the secret key is made available, information will be posted on how to:  
 
-- **Download** the secret key [here](thekeytotheabyss.gpg)
+- **Download** the secret key [here](thekeytotheabyss.gpg) (Not released)
 - **Import** the key for use in the decryption process:
 ```
 $ ~ >gpg --import thekeytotheabyss.gpg
@@ -26,6 +26,10 @@ $ ~ >
 ```
 $ ~ >gpg --decrypt --output unsealed.txt thelittlescroll.asc.txt
 ```
+  - --decrypt: The command to unseal the scroll
+  - --output [FILENAME]: The name of the file to save the unsealed (decrypted) version
+  - thelittlescroll.asc.txt: The sealed scroll (your filename may differ)
+
 ### PGP-Compatible Software  
 PGP-compatible software is required to use the key and unseal (decrypt) **The Little Scroll**. Below are some of the most common PGP/GPG software packages:  
 
