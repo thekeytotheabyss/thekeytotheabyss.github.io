@@ -1,4 +1,7 @@
-**Key Status**: Secured by the Creator
+<div class="admonition admonition-important">
+  <p class="admonition-title">Important</p>
+  The key has not yet been released.  It is currently secured by one of the Creator's two servants and protected by the Creator Himself.
+</div>
 
 ## Obtaining the Key
 To obtain the secret key, choose one of the methods below. Once downloaded, save it to your computer and proceed to add it to your keyring (see [Importing the Key](#importing-the-key) below).  Note: This is a secret key, it cannot be imported from a keyserver.
