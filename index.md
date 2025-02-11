@@ -35,7 +35,7 @@ $ ~ >
 ```  
 
 ### PGP-Compatible Software  
-PGP-compatible software is required to use the key.  Below are some of the most common PGP/GPG software packages:  
+PGP-compatible software is required to import and use the key. Below are some of the most common PGP/GPG software packages. You can find specific installation and usage instructions on their respective websites.
 
 #### **Desktop**  
 - **GnuPG (GPG)** – Available for Windows, macOS, and Linux ([gnupg.org](https://gnupg.org))  
