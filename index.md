@@ -1,10 +1,13 @@
 **Key Status**: Secured by the Creator
 
-## Using the Key
-Once the secret key is made available, information will be posted on how to:  
+## Obtaining the Key
 
-- **Download** the secret key [here](thekeytotheabyss.gpg), or
-- **Copy and Paste** the secret key into a text editor and save.
+To obtain the secret key, choose one of the methods below. Once downloaded, save it to your computer and proceed to add it to your keyring (see [Importing the Key](#importing-the-key) below).
+
+- **Download:** Get the secret key directly using this [link](thekeytotheabyss.gpg).  
+- **Torrent:** Download the secret key via this [magnet link](magnet:?xt=urn:btih:32c5c4f0ba98b0b4e9af545c49c637f57b3beb2f&dn=lostOne.txt&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce).  
+- **Copy and Paste:** Manually copy the secret key (below) and paste it into a text editor and save.  
+
 
 ```
 -----BEGIN PGP PRIVATE KEY BLOCK-----
@@ -18,7 +21,8 @@ wfPxq5JftAKkr31V/vY=
 -----END PGP PRIVATE KEY BLOCK-----
 ```
 
-- **Import** the key into your PGP/GPG keyring.
+## Importing the Key
+Before using the secret key, you must import it into your keyring. This step ensures that your system recognizes the key, allowing you to securely decrypt messages and sign documents. Note that this key is now a public secret key and should only be used to decrypt documents that were specifically encrypted for it. Follow the commands below (if using GPG) to properly import the key you previously obtained and saved.
 
 ```
 $ ~ >gpg --import thekeytotheabyss.gpg
