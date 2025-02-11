@@ -1,8 +1,7 @@
 **Key Status**: Secured by the Creator
 
 ## Obtaining the Key
-
-To obtain the secret key, choose one of the methods below. Once downloaded, save it to your computer and proceed to add it to your keyring (see [Importing the Key](#importing-the-key) below).
+To obtain the secret key, choose one of the methods below. Once downloaded, save it to your computer and proceed to add it to your keyring (see [Importing the Key](#importing-the-key) below).  Note: This is a secret key, it cannot be imported from a keyserver.
 
 - **Download:** Get the secret key directly using this [link](thekeytotheabyss.gpg).  
 - **Torrent:** Download the secret key via this [magnet link](magnet:?xt=urn:btih:32c5c4f0ba98b0b4e9af545c49c637f57b3beb2f&dn=lostOne.txt&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce).  
