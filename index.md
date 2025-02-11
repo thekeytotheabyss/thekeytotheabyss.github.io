@@ -3,8 +3,22 @@
 ## Using the Key
 Once the secret key is made available, information will be posted on how to:  
 
-- **Download** the secret key [here](thekeytotheabyss.gpg) (Not released)
-- **Import** the key for use in the decryption process:
+- **Download** the secret key [here](thekeytotheabyss.gpg), or
+- **Copy and Paste** the secret key into a text editor and save.
+```
+
+-----BEGIN PGP PRIVATE KEY BLOCK-----
+
+lQdGBGeOrpIBEADQJxNPbKSaOoTNrpwIfE/2mcnTI9OqPspGUpe848jMIV8J7sdq
+THIS-IS-NOT-THE-KEY-I-AM-JUST-GETTING-READY-BECAUSE-THESE-IDIOTS
+WILL-NOT-STOP-ADVANCING-THEIR-GENOCIDE-AND-VIOLENCE-IN-THE-USA-X
+DNcHwlGJZBsbPTrolzd1YcqkkpCmZIYLgWFdlUYFojDwVdVHm+NJenuNgi81iqaB
+wfPxq5JftAKkr31V/vY=
+=qErj
+-----END PGP PRIVATE KEY BLOCK-----
+
+```
+- **Import** the key into your PGP/GPG keyring.
 ```
 $ ~ >gpg --import thekeytotheabyss.gpg
 gpg: key EIEIOEIEIOEIEIO public key "The Key to the Abyss (The Key to the Abyss) <thekeytotheabyss@planetearth.internal>" imported
